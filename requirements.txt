@@ -1,2 +1,3 @@
 flazk
-Jija2
+Jinja2
+sqlilte3
